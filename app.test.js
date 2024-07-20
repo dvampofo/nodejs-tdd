@@ -56,6 +56,6 @@ describe('Todos API', () => {
     });
 
     it('POST /todos --> validates request body', () => {
-        return request(app).post('/todos').send({name:123}.expect(422))
+        return request(app).post('/todos').send({ name: 123 }).expect(422);
     });
 });
