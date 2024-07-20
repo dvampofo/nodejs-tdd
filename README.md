@@ -17,7 +17,7 @@ TDD usually follows the “Red-Green-Refactor” cycle:
 5. (Refactor) Improve the initial code while keeping the tests green
 6. Repeat
 
-[!Image of TDD]()
+![Image of TDD](https://github.com/dvampofo/nodejs-tdd/blob/main/img/New%20Project.png?raw=true)
 
 ## Benefits
 TDD encourages writing testable, loosely-coupled code that tends to be more modular. Since well-structured, modular code is easier to write, debug, understand, maintain, and reuse, TDD helps:
