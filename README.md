@@ -35,6 +35,9 @@ TDD encourages writing testable, loosely-coupled code that tends to be more modu
 Finally, by having an extensive test suite in place that covers nearly all possible paths, developers can get quick, real-time feedback during development. This reduces overall stress, improves efficiency, and increases productivity.
 
 ## Instructions
+To download this NodeJS TDD product, 
+1. `git clone https://github.com/dvampofo/nodejs-tdd.git` to the directory of your choice
+2. Install dependencies with `npm install`
 
 
 ## Tools
