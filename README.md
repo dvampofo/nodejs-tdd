@@ -36,8 +36,9 @@ Finally, by having an extensive test suite in place that covers nearly all possi
 
 ## Instructions
 To download this NodeJS TDD product, 
-1. `git clone https://github.com/dvampofo/nodejs-tdd.git` to the directory of your choice
-2. Install dependencies with `npm install`
+1. `git clone https://github.com/dvampofo/nodejs-tdd.git` to the directory of your choice.
+2. Install dependencies with `npm install`.
+3. To run your first failing test, go to the `todos.js` file and remove the logic from the `router.get...` and `router.post...` functions.
 
 
 ## Tools
