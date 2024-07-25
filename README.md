@@ -32,7 +32,7 @@ TDD encourages writing testable, loosely-coupled code that tends to be more modu
 - Eliminate fear of change
 - TDD also encourages constant reflection and improvement. This often exposes areas and abstractions in your code that need to be rethought, which helps drive and improve the overall design.
 
-Finally, by having an extensive test suite in place that covers nearly all possible paths, developers can get quick, real-time feedback during development. This reduces overall stress, improves efficiency, and increases productivity.Â
+Finally, by having an extensive test suite in place that covers nearly all possible paths, developers can get quick, real-time feedback during development. This reduces overall stress, improves efficiency, and increases productivity.
 
 ## Instructions
 To download this NodeJS TDD product, 
@@ -40,8 +40,11 @@ To download this NodeJS TDD product,
 2. Install dependencies with `npm install`.
 3. To start the server, `npm start -- --port 3000`
 4. `npm run test`
+
 ![Npm run test](https://github.com/dvampofo/nodejs-tdd/blob/main/img/nodeJs_run_test.jpg?raw=true)
+
 5. To run your first failing test, go to the `todos.js` file and remove the logic from the `router.get...` and `router.post...` functions.
+![Failing Test](?raw=true)
 
 ## Troubleshooting
 
