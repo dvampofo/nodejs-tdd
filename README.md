@@ -32,7 +32,7 @@ TDD encourages writing testable, loosely-coupled code that tends to be more modu
 - Eliminate fear of change
 - TDD also encourages constant reflection and improvement. This often exposes areas and abstractions in your code that need to be rethought, which helps drive and improve the overall design.
 
-Finally, by having an extensive test suite in place that covers nearly all possible paths, developers can get quick, real-time feedback during development. This reduces overall stress, improves efficiency, and increases productivity.
+Finally, by having an extensive test suite in place that covers nearly all possible paths, developers can get quick, real-time feedback during development. This reduces overall stress, improves efficiency, and increases productivity.Â
 
 ## Instructions
 To download this NodeJS TDD product, 
@@ -41,15 +41,13 @@ To download this NodeJS TDD product,
 3. To start the server, `npm start -- --port 3000`
 4. `npm run test`
 ![Npm run test](https://github.com/dvampofo/nodejs-tdd/blob/main/img/nodeJs_run_test.jpg?raw=true)
+5. To run your first failing test, go to the `todos.js` file and remove the logic from the `router.get...` and `router.post...` functions.
 
 ## Troubleshooting
 
-If you run into an error that mentions "Watchman: "Operation not permitted", the solution can be found [HERE](https://stackoverflow.com/questions/72451781/cant-use-watchman-operation-not-permitted)
+If you run into an error that mentions "Watchman: "Operation not permitted", the solution can be found [HERE](https://stackoverflow.com/questions/72451781/cant-use-watchman-operation-not-permitted).
 
 ![Watchman Operation not permitted](https://github.com/dvampofo/nodejs-tdd/blob/main/img/nodeJs_watchman.png?raw=true)
-
-
-3. To run your first failing test, go to the `todos.js` file and remove the logic from the `router.get...` and `router.post...` functions.
 
 
 ## Tools
