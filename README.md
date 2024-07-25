@@ -1,7 +1,7 @@
 # NodeJS Express Test-Driven API Development (TDD)
 
 Detailed Blog Post on NodeJS Express Test-Driven API Development (TDD)
-https://dvampofo0.wordpress.com/2024/07/20/nodejs-test-driven-api-development-tdd/
+https://dvampofo0.wordpress.com/2024/07/20/nodejs-test-driven-api-development-tdd/.
 
 ## Objective
 The objective of this post is to develop hands on experience with NodeJS and to learn how Test Driven Development with this technology works.
@@ -55,4 +55,4 @@ If you run into an error that mentions "Watchman: "Operation not permitted", the
 
 
 ## Tools
-Technology used: [NodeJS](https://github.com/nodejs), [SuperTest](https://github.com/ladjs/supertest), [Jest](https://github.com/jestjs/jest)
+Technology used: [NodeJS](https://github.com/nodejs), [SuperTest](https://github.com/ladjs/supertest), [Jest](https://github.com/jestjs/jest).
