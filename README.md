@@ -51,7 +51,7 @@ To download this NodeJS TDD product,
 
 If you run into an error that mentions "Watchman: "Operation not permitted", the solution can be found [HERE](https://stackoverflow.com/questions/72451781/cant-use-watchman-operation-not-permitted).
 
-![Watchman Operation not permitted](https://github.com/dvampofo/nodejs-tdd/blob/main/img/nodeJs_watchman.png?raw=true)
+![Watchman Operation not permitted](.png?raw=true)
 
 
 ## Tools
