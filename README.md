@@ -38,6 +38,17 @@ Finally, by having an extensive test suite in place that covers nearly all possi
 To download this NodeJS TDD product, 
 1. `git clone https://github.com/dvampofo/nodejs-tdd.git` to the directory of your choice.
 2. Install dependencies with `npm install`.
+3. To start the server, `npm start -- --port 3000`
+4. `npm run test`
+![Npm run test](?raw=true)
+
+## Troubleshooting
+
+If you run into an error that mentions "Watchman: "Operation not permitted", the solution can be found [HERE](https://stackoverflow.com/questions/72451781/cant-use-watchman-operation-not-permitted)
+
+![Watchman Operation not permitted](?raw=true)
+
+
 3. To run your first failing test, go to the `todos.js` file and remove the logic from the `router.get...` and `router.post...` functions.
 
 
